@@ -1,2 +1,1 @@
-# stock-availability
-# stock-availability
+Stock availability app
